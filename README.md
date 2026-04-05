@@ -34,5 +34,6 @@ PythonLibraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, MlxtendEnviro
 the following results were achieved:Accuracy: ~90%AUC Score: 𝟎.𝟖𝟕 (87% ability to distinguish between classes)Evaluation Metrics: Confusion Matrix, ROC Curve, and Classification Report (Precision/Recall).
 
 ROC Curve
+
 <img width="622" height="670" alt="Screenshot 2026-04-05 232817" src="https://github.com/user-attachments/assets/6c121ce9-34d4-4f30-a65e-93e45c82da6c" />
 
